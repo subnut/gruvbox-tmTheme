@@ -1,5 +1,4 @@
 # gruvbox-tmTheme
-Port of all .tmThemes from Briles/gruvbox@ec4eae233b
+Port of some .tmThemes from Briles/gruvbox@ec4eae233b
 
-That commit, as per my knowledge, is the last commit
-of Briles/gruvbox that contains the .tmTheme files.
+This branch is being used as a submodule in [bat](https://github.com/sharkdp/bat) for the _gruvbox_ family of themes
