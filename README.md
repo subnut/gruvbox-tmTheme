@@ -1,5 +1,6 @@
 # gruvbox-tmTheme
-Port of all .tmThemes from Briles/gruvbox@ec4eae233b
+Port of all .tmThemes from
+[Briles/gruvbox@`ec4eae233b`](https://github.com/Briles/gruvbox/tree/ec4eae233b7980fe62f287093b4e2b886b5f3dd5)
 
-That commit, as per my knowledge, is the last commit
-of Briles/gruvbox that contains the .tmTheme files.
+This branch is intended to make the files compatible
+with [TextMate](https://macromates.com).
