@@ -836,7 +836,7 @@
       </dict>
       <dict>
         <key>scope</key>
-        <string>entity.name.class, entity.name.type.class</string>
+        <string>entity.name.class, entity.name.type.class, entity.name</string>
         <key>settings</key>
         <dict>
           <key>foreground</key>
